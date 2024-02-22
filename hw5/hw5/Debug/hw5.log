@@ -1,0 +1,12 @@
+﻿  hw05q1.c
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(170,41): warning C4047: '==': 'int' differs in levels of indirection from 'char *'
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(174,33): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(153,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'char *'
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(314,42): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(315,24): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'void *'
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(316,23): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'void *'
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(357,20): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(360,11): warning C4098: 'load': 'void' function returning a value
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(189): warning C4715: 'add': not all control paths return a value
+C:\Users\totel\source\repos\hw5\hw5\hw05q1.c(328): warning C4715: 'delete': not all control paths return a value
+  hw5.vcxproj -> C:\Users\totel\source\repos\hw5\Debug\hw5.exe

@@ -1,0 +1,8 @@
+﻿  hw06q1.c
+C:\Users\totel\source\repos\hw6\hw6\hw06q1.c(211,29): warning C4047: '==': 'unsigned int' differs in levels of indirection from 'void *'
+C:\Users\totel\source\repos\hw6\hw6\hw06q1.c(224,2): warning C4033: 'delete' must return a value
+C:\Users\totel\source\repos\hw6\hw6\hw06q1.c(235,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'FILE *'
+C:\Users\totel\source\repos\hw6\hw6\hw06q1.c(236,11): warning C4098: 'load': 'void' function returning a value
+C:\Users\totel\source\repos\hw6\hw6\hw06q1.c(243,11): warning C4098: 'load': 'void' function returning a value
+C:\Users\totel\source\repos\hw6\hw6\hw06q1.c(225): warning C4715: 'delete': not all control paths return a value
+  hw6.vcxproj -> C:\Users\totel\source\repos\hw6\Debug\hw6.exe

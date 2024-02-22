@@ -1,0 +1,11 @@
+﻿'hw6.exe' (Win32): Loaded 'C:\Users\totel\source\repos\hw6\Debug\hw6.exe'. Symbols loaded.
+'hw6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'hw6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'hw6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'hw6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'hw6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x58 has exited with code 0 (0x0).
+The thread 0x49cc has exited with code -1073741510 (0xc000013a).
+The thread 0x2568 has exited with code -1073741510 (0xc000013a).
+The thread 0x249c has exited with code -1073741749 (0xc000004b).
+The program '[3288] hw6.exe' has exited with code -1073741510 (0xc000013a).

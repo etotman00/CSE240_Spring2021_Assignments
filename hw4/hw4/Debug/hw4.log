@@ -1,0 +1,12 @@
+﻿  hw04q1.c
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(101,16): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(122,22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(122,15): warning C4024: 'toUppercase': different types for formal and actual parameter 1
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(126,22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(126,15): warning C4024: 'toLowercase': different types for formal and actual parameter 1
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(178,35): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(178,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(184,9): warning C4101: 'y': unreferenced local variable
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(184,6): warning C4101: 'x': unreferenced local variable
+C:\Users\totel\source\repos\hw4\hw4\hw04q1.c(204,9): warning C4101: 'key': unreferenced local variable
+  hw4.vcxproj -> C:\Users\totel\source\repos\hw4\Debug\hw4.exe
